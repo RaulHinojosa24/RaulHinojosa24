@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raul</h1>
 <h3 align="center">A passionate full-stack developer from Barcelona, Spain</h3>
 
-- 🌱 I’m currently learning **ReactJS, VueJS, SpringBoot**
+- 🌱 I’m currently learning **ReactJS**
 
 <br>
 
